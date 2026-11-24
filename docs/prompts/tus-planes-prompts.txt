@@ -1,0 +1,97 @@
+PROMPT DE «¿CUÁL ES TU PLAN?» (@soydiegoosorio)
+CÓMO USARLO: pégale este archivo a Claude Code (con Higgsfield conectado) y dile "haz este video con mi clon".
+Images 1, 2 y 3 = tres fotos de tu cara. Cambia [YOUR LOOK] por cómo eres tú y [YOUR HEIGHT] por tu estatura.
+Paso 1: las fichas con GPT Image 2.6 (9:16): tus 6 planes, la abuelita y el edificio.
+Paso 2: el video con Seedance 2.5 en Higgsfield: una sola toma de 19 segundos, 16:9, 720p, con audio.
+  Image 1 = tu cara · Images 2 a 7 = tus fichas de los planes A a F · Image 8 = la abuelita · Image 9 = el edificio.
+Paso 3: el montaje vertical: fondo negro, la toma en una franja ancha en el centro, PLAN A… PLAN F sobre cada
+  ventana, el título ¿CUÁL ES TU PLAN? al final y música de humor.
+Costo de todo el video: 1,96 dólares en créditos (salió bien a la primera).
+
+==============================================================================
+LA TOMA (Seedance 2.5)
+==============================================================================
+
+A 19-second continuous ONE-SHOT from a top-budget live-action film, 16:9, at night in New York, one single unbroken camera move: fast whip moves between windows, NO cuts, NO dissolves. Shot on an ARRI Alexa 35, 24 fps, natural motion blur on the whip moves, fine film grain, warm practical lights inside each apartment against a cool blue night outside. Real people, real scale, real weight, real physics. Not animation, not CGI.
+
+THE IDEA: every window of the same building shows THE SAME MAN living a different, crazier life: PLAN A, PLAN B, PLAN C, PLAN D, PLAN E, PLAN F. IMAGE 1 = THE MAN'S FACE ([YOUR LOOK: glasses or not, hair, beard]); it is the same man in every window. His outfit in each window: IMAGE 2 (plan A), IMAGE 3 (plan B), IMAGE 4 (plan C), IMAGE 5 (plan D), IMAGE 6 (plan E), IMAGE 7 (plan F, the same man at about 80). IMAGE 8 = the elderly lady of plan A. IMAGE 9 = the look of the building: a classic prewar New York apartment building of light grey stone, wide windows with thick ornate stone surrounds, a black iron fire escape, water tanks on the roof.
+
+THE SHOT, IN ORDER (exact times, one continuous camera move):
+0.0-2.0 s PLAN A, INSIDE: a cozy dining room, candles, a bookshelf. THE MAN (image 2) has a romantic dinner with his sweetheart, the sweet elderly lady of image 8, sitting across the small table; they clink their glasses of red wine (0.8-1.6 s) and sip (1.7-2.2 s), smiling at each other.
+2.0-2.3 s the camera pulls straight back out through their window and ends outside, looking at the building's facade with them visible inside.
+3.25-3.55 s fast whip DOWN one floor.
+3.55-5.65 s PLAN B: in a dark living room lit only by the blue light of the TV, THE MAN (image 3, grey hoodie) is asleep on the sofa, head tilted back, next to his big golden retriever, also asleep.
+5.65-5.97 s fast whip RIGHT to the next window.
+5.97-7.9 s PLAN C: a small home tattoo studio under a bright lamp: THE MAN (image 4, black t-shirt) sits with his right forearm resting on a padded stand, wincing, while a heavily tattooed tattoo artist leans over his arm, working with the tattoo machine.
+7.9-8.15 s fast whip UP one floor.
+8.15-10.0 s PLAN D: a smoky room with a low hanging lamp: THE MAN (image 5, pinstripe suit), the boss, plays poker with four tough-looking men around a table with chips and cards. Outside, on the black iron fire escape to the right of the window, a man in a dark hoodie climbs up the stairs.
+10.0-10.4 s fast whip UP one floor.
+10.4-12.35 s PLAN E: THE MAN (image 6, yellow jersey) and two friends on a sofa, beers in hand, watching a football match on a big TV; at 11.0 s they jump up and celebrate a goal with their arms in the air.
+12.35-12.68 s fast whip UP to the top floor, just below the roof with its water tanks.
+12.68-14.7 s PLAN F: THE MAN at about 80 (image 7: white hair, white beard, beige cardigan) leans calmly on his windowsill, looking out over the city at night with a peaceful smile.
+14.7-15.1 s the camera pulls far back.
+15.1-19.1 s the whole building at night: rows of windows, some lit, the black fire escape, the water tanks, neighbouring buildings, trees on the sidewalk and a few cars driving along the street. Hold.
+
+PERFORMANCE: natural, believable acting; nobody talks to the camera. Inside each window, only one version of the man.
+SOUND: night city ambience, muffled sounds from each apartment (glasses clinking, TV murmur and snoring, the buzz of a tattoo machine, poker chips, a crowd cheering a goal). No music, no dialogue, no narration.
+BANS: no cuts, no dissolves, no text, no subtitles, no logos, no brand names, no watermarks. Nobody passes through walls or glass. No morphing faces, no extra limbs. Not cartoon, not CGI.
+
+==============================================================================
+FICHA PLAN A · LA CENA CON LA ABUELITA (GPT Image 2.6, 9:16)
+==============================================================================
+
+THE MAN: exactly the man of images 1, 2 and 3 (the same person): his exact face, [YOUR LOOK: glasses or not, hair, beard], his real proportions; fit but LEAN, NOT a bodybuilder, NOT bulky, slim natural arms; head and face naturally sized; [YOUR HEIGHT] tall.
+STYLE: a fashion lookbook photo, vertical 9:16: full body from head to shoes, standing relaxed, facing the camera, on a plain white seamless studio background, soft even light, sharp focus, photorealistic. No text, no logos, no brand names, no watermark. Not CGI, not cartoon.
+OUTFIT (PLAN A, romantic dinner): a dark navy blazer, a crisp white shirt open at the collar, dark trousers, brown leather shoes, holding a glass of red wine.
+
+==============================================================================
+FICHA PLAN B · DORMIDO CON EL PERRO (GPT Image 2.6, 9:16)
+==============================================================================
+
+THE MAN: exactly the man of images 1, 2 and 3 (the same person): his exact face, [YOUR LOOK: glasses or not, hair, beard], his real proportions; fit but LEAN, NOT a bodybuilder, NOT bulky, slim natural arms; head and face naturally sized; [YOUR HEIGHT] tall.
+STYLE: a fashion lookbook photo, vertical 9:16: full body from head to shoes, standing relaxed, facing the camera, on a plain white seamless studio background, soft even light, sharp focus, photorealistic. No text, no logos, no brand names, no watermark. Not CGI, not cartoon.
+OUTFIT (PLAN B, home alone with his dog): a soft grey hoodie, grey sweatpants, thick socks and slippers. Sitting at his feet, his dog: a big, friendly golden retriever.
+
+==============================================================================
+FICHA PLAN C · EL TATUAJE (GPT Image 2.6, 9:16)
+==============================================================================
+
+THE MAN: exactly the man of images 1, 2 and 3 (the same person): his exact face, [YOUR LOOK: glasses or not, hair, beard], his real proportions; fit but LEAN, NOT a bodybuilder, NOT bulky, slim natural arms; head and face naturally sized; [YOUR HEIGHT] tall.
+STYLE: a fashion lookbook photo, vertical 9:16: full body from head to shoes, standing relaxed, facing the camera, on a plain white seamless studio background, soft even light, sharp focus, photorealistic. No text, no logos, no brand names, no watermark. Not CGI, not cartoon.
+OUTFIT (PLAN C, getting a tattoo): a plain black LONG-SLEEVE henley shirt, the right sleeve rolled up above the elbow, slim natural arms (never muscular, never veiny), dark jeans, white sneakers; a fresh black-ink tattoo of a small compass on his right forearm, covered with clear film.
+
+==============================================================================
+FICHA PLAN D · EL PÓKER CLANDESTINO (GPT Image 2.6, 9:16)
+==============================================================================
+
+THE MAN: exactly the man of images 1, 2 and 3 (the same person): his exact face, [YOUR LOOK: glasses or not, hair, beard], his real proportions; fit but LEAN, NOT a bodybuilder, NOT bulky, slim natural arms; head and face naturally sized; [YOUR HEIGHT] tall.
+STYLE: a fashion lookbook photo, vertical 9:16: full body from head to shoes, standing relaxed, facing the camera, on a plain white seamless studio background, soft even light, sharp focus, photorealistic. No text, no logos, no brand names, no watermark. Not CGI, not cartoon.
+OUTFIT (PLAN D, boss of a secret poker night): a dark charcoal pinstripe suit, white shirt open at the collar, no tie, a gold watch, black oxford shoes, holding a fan of playing cards.
+
+==============================================================================
+FICHA PLAN E · LA FIESTA DEL GOL (GPT Image 2.6, 9:16)
+==============================================================================
+
+THE MAN: exactly the man of images 1, 2 and 3 (the same person): his exact face, [YOUR LOOK: glasses or not, hair, beard], his real proportions; fit but LEAN, NOT a bodybuilder, NOT bulky, slim natural arms; head and face naturally sized; [YOUR HEIGHT] tall.
+STYLE: a fashion lookbook photo, vertical 9:16: full body from head to shoes, standing relaxed, facing the camera, on a plain white seamless studio background, soft even light, sharp focus, photorealistic. No text, no logos, no brand names, no watermark. Not CGI, not cartoon.
+OUTFIT (PLAN E, partying with friends): a plain bright yellow LONG-SLEEVE football jersey with no logos and no lettering (sleeves down to the wrists, slim natural arms, never muscular), jeans, white sneakers, holding a bottle of beer with no label, a big happy grin.
+
+==============================================================================
+FICHA PLAN F · A LOS 80 (GPT Image 2.6, 9:16)
+==============================================================================
+
+THE MAN: exactly the man of images 1, 2 and 3, but at about 80 years old: the same face, eyes and nose (and the same glasses, if he wears them), now with white hair, a full white beard, deep wrinkles and age spots, slightly stooped, lean.
+STYLE: a fashion lookbook photo, vertical 9:16: full body from head to shoes, standing relaxed, facing the camera, on a plain white seamless studio background, soft even light, photorealistic. No text, no logos, no watermark. Not CGI, not cartoon.
+OUTFIT (PLAN F, old age): a beige knitted cardigan over a white shirt, grey wool trousers, brown slippers.
+
+==============================================================================
+FICHA DE LA ABUELITA (GPT Image 2.6, 9:16)
+==============================================================================
+
+A fashion lookbook photo, vertical 9:16, photorealistic: an elegant, sweet elderly woman of about 85, silver hair in a neat bun, soft wrinkles, a warm smile, a pearl necklace, a burgundy silk dress, a light shawl, low heels, standing full body on a plain white seamless studio background, soft even light. An invented person, not a celebrity. No text, no logos, no watermark.
+
+==============================================================================
+FICHA DEL EDIFICIO (GPT Image 2.6, 9:16)
+==============================================================================
+
+A cinematic location photo from a high-budget film, vertical 9:16, photoreal, at night: the facade of a classic prewar New York apartment building, light grey stone, rows of wide windows with thick ornate stone surrounds and pediments, warm lights in some windows, a black iron fire escape on one side, water tanks on the roof, a quiet street below. No people, no text, no logos.
